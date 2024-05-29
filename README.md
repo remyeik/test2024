@@ -1,2 +1,3 @@
-# test2024
-Readme
+#Readme 
+
+Prøver å lære meg Git
