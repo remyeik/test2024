@@ -1,3 +1,3 @@
 #Readme 
 
-Prøver å lære meg Git
+Prøver å lære meg JavaScript
